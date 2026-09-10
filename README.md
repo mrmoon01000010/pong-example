@@ -6,5 +6,5 @@ This is a test repository for the game engine EDAME that I am developing. It is 
 - The StateSpace is updated based on inputs and can generate outputs.
 - The update rules are as follows:
 ```math
-\frac{\mathrm{d} S}{\mathrm{d} t}
+\frac{\mathrm{d} s}{\mathrm{dt}} = B^{-1}(i)A(s)\frac{\mathrm{d} i}{\mathrm{dt}
 ```
